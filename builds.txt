@@ -63,7 +63,7 @@ description="ATTENTION: You must disable 'Keep Super Favourites' in Ninja Wizard
 
 name="Ninja Build Matrix"
 version="0.9.3"
-url="https://www.mediafire.com/file_premium/jwyls7h2aduqadk/ninja0.9.3.zip"
+url="https://www.mediafire.com/file_premium/e052g60qrj8nyg4/ninja0.9.3.zip"
 minor="http://"
 gui="http://"
 kodi="19.4"
