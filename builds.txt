@@ -34,7 +34,7 @@ description="Ninja Build 0.9.3 works with any Kodi 19 version"
 
 name="Omega Ninja"
 version="0.1"
-url="https://www.mediafire.com/file/zpc82mc8yof8jtg/omega.ninja0.1.zip"
+url="https://www.mediafire.com/file/zpc82mc8yof8jtg/omega.ninja.0.1.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
